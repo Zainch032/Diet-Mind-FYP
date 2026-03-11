@@ -1,0 +1,6 @@
+# NHANES XPT files (too large for git)
+data/USER HEALTH/*.xpt
+data/USER HEALTH/*.XPT
+
+# Large data files
+data/USER HEALTH/
